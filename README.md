@@ -2,4 +2,4 @@
 
 - [ ] Sidebar
 - [ ] Navbar
-- [ ] Conteudo 
+- [ ] Other 
